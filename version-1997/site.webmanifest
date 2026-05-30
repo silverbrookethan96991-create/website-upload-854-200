@@ -1,0 +1,8 @@
+{
+  "name": "高清剧集大全",
+  "short_name": "高清剧集大全",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#ec4899"
+}
